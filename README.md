@@ -2,7 +2,7 @@
 Systems Programming: Makefile to manage basic math function, *C programming* course .
 
 
-program by: **Gal Braymok**
+programed by: **Gal Braymok**
 
 ## Info
 basicMath: 
