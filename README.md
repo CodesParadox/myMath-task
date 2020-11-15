@@ -12,7 +12,7 @@ power:
 Exp and the power function.
 
 main:
-The user need to insert a number X, must be true number, and the function will calculate the following:
+The user need to insert a number X, must be a true number, and the function will calculate the following:
 
 f1(x)= e^x + 3^x -2.
 
