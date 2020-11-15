@@ -14,7 +14,7 @@ Exp and the power function.
 main:
 The user need to insert a number X, must be a true number, and the function will calculate the following:
 
-f1(x)= e^x + 3^x -2.
+f1(x)= e^x + x^3 -2.
 
 f2(x) = 3x + 2x^2.
 
