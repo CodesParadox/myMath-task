@@ -1,6 +1,6 @@
 # myMath-task
-Systems Programming: Makefile to manage basic math function, C Program first task 
-This Project is a first task in *C programming* course 
+Systems Programming: Makefile to manage basic math function, *C programming* course .
+
 
 program by: **Gal Braymok**
 
